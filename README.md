@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats-eight-vector.vercel.app/api?username=Filipe-Devv&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Trophy](https://github-profile-trophies.vercel.app/?username=Filipe-Devv&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophies)
 
 ---
 
