@@ -21,9 +21,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Filipe](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filipe-Devv&theme=dark&hide_border=true))
+![Estatísticas do Filipe](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filipe-Devv&theme=dark&hide_border=true)
 
 ---
 
 📫 **Como me encontrar:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/filipe-almeida-a1af44427/)
+🔗 [LinkedIn](https://www.linkedin.com/in/filipe-almeida-cabral-a5a698427/?isSelfProfile=true)
