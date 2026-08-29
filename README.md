@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Minhas Estatísticas](![Estatísticas do GitHub](https://github-readme-stats-eight-vector.vercel.app/api?username=Filipe-Devv&show_icons=true&theme=dark&hide_border=true))
+![Estatísticas do GitHub](https://github-readme-stats-eight-vector.vercel.app/api?username=Filipe-Devv&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
