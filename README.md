@@ -1,4 +1,4 @@
-# Hi there, I'm Filipe Almeida! 👋
+# Hi there, I'm Filipe Almeida Cabral! 👋
 
 🎓 **Estudante de Desenvolvimento de Sistemas** no **Senac**  
 💻 Apaixonado por tecnologia, lógica de programação e resolução de problemas.
@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Filipe](https://github-readme-stats.vercel.app/api?username=Filipe-Devv&show_icons=true&theme=dark&hide_border=true)
+![Estatísticas do Filipe](![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filipe-Devv&theme=dark&hide_border=true))
 
 ---
 
